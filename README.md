@@ -7,7 +7,7 @@ I am excited to share this dashboard with you and look forward to hearing your f
 
 Visit: [Project React Admin Panel demo](https://admin-panel-portfolio.netlify.app/)
 
-![Figma admin panel sketch](src/assets/images/figma-sketch-v3.png)
+/*![Figma admin panel sketch](src/assets/images/figma-sketch-v3.png)*/
 
 # Features
 
