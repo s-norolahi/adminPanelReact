@@ -75,8 +75,9 @@ function LoginBox() {
 
       <div className={classes.keyPic}>
         <img
-          src={require("../../assets/images/Revenue-cuate.svg").default}
+          src={require("../../assets/images/digikala.svg").default}
           alt="illustrator key"
+          loading="lazy"
         />
       </div>
     </div>
