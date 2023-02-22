@@ -5,5 +5,5 @@ const images = {
   dashboard: require("../assets/images/Revenue-cuate.svg"),
   notFound: require("../assets/images/Oops 404 Error with a broken robot-cuate.svg"),
 };
-
+/*test*/
 export default images;
