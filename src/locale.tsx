@@ -10,8 +10,8 @@ i18n
     resources: {
       en: {
         translation: {
-          zahraMirzaei: "Zahra Mirzaei",
-          admin: "admin",
+          zahraMirzaei: "Owl Store",
+          admin: "Admin",
           dashboard: "Dashboard",
           orders: "Orders",
           products: "Products",
@@ -95,7 +95,7 @@ i18n
       },
       fa: {
         translation: {
-          zahraMirzaei: "زهرا میرزایی",
+          zahraMirzaei: "فروشگاه جغد",
           admin: "مدیر",
           dashboard: "داشبورد",
           orders: "سفارشات",
